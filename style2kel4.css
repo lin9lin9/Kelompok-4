@@ -390,6 +390,7 @@ dl li {
   
   .knsrvs-link:hover, .knsrvs-link:active {
     background-color: rgb(66, 188, 236);
+    color: darkblue;
   }
   
   .Konservasi {
